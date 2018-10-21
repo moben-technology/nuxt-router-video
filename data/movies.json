@@ -1,0 +1,104 @@
+[
+  {
+    "id": "aquaman",
+    "title": "Aquaman",
+    "image": "https://image.tmdb.org/t/p/w1280/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg",
+    "cover": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/5A2bMlLfJrAfX9bqAibOL2gCruF.jpg",
+    "description": "Personnage légendaire depuis 70 ans, Aquaman est le Roi des Sept Mers, régnant à contrecœur sur Atlantis. Pris en étau entre les Terriens qui détruisent constamment la mer et les habitants d'Atlantis prêts à se révolter, Aquaman doit protéger la planète tout entière…",
+    "year": "2018",
+    "casting": [
+      {
+        "id": "jason_momoa",
+        "name": "Jason Momoa",
+        "image": "http://fr.web.img5.acsta.net/c_215_290/pictures/17/11/16/14/08/4596459.jpg",
+        "age": "39 ans",
+        "nationality": "Américain",
+        "biography": "Né à Hawaï, Joseph Jason Namakaeha Momoa a vécu une partie de son enfance dans l'Iowa. Il est encore collégien lorsqu'il retourne sur son île natale et y finit sa scolarité. Momoa se lance ensuite dans une carrière de mannequin. Le succès lui sourit puisqu'en 1999, il est élu top-modèle masculin de l'année à Hawaï. Son impressionnante musculature lui vaut d'être recruté la même année pour jouer dans une série télévisée américaine, et pas n'importe laquelle puisqu'il s'agit d'Alerte à Malibu. Le néo-acteur y interprète le personnage de Jason Ioane pendant deux ans. Jason reprend ensuite le même rôle en 2004 pour les besoins du téléfilm Mariage à Hawaï de Douglas Schwartz, qui met en scène les personnes de la série-culte dans une situation délocalisée à Hawaï. Momoa continue de travailler pour le petit écran puisqu'il apparaît dans d'autres feuilletons tels que Stargate : Atlantis où il in..."
+      },
+      {
+        "id": "amber_heard",
+        "name": "Amber Heard",
+        "image": "http://fr.web.img3.acsta.net/c_215_290/pictures/15/06/26/10/49/578358.jpg",
+        "age": "32 ans",
+        "nationality": "Américaine",
+        "biography": "D'origine texane, Amber Heard débute sa carrière d’actrice à 18 ans en participant à un épisode de Jack & Bobby, puis passe la même année sur grand écran dans Friday Night Lights de Peter Berg. Le film relate les aventures d'une équipe du football américain qui a connu le plus grand succès de l'histoire du Texas. Elle multiplie par la suite les apparitions dans des comédies, des drames ou des films d'horreur. En 2006, L' Affaire Josey Aimes lui permet de se faire remarquer en jouant Charlize Theron jeune dans les flashbacks du film. Un an plus tard, elle se montre sensuelle et envoûtante dans Alpha Dog où, petite amie d'Amanda Seyfried, elle dépucèle avec son amante le jeune Zach (Anton Yelchin). Son premier rôle principal, Amber Heard l'obtient en 2006 pour Tous les garçons aiment Mandy Lane, le film d'horreur de Jonathan Levine, resté inédit dans les salles françaises. Le flm joue..."
+      },
+      {
+        "id": "willem_dafoe",
+        "name": "Willem Dafoe",
+        "image": "http://fr.web.img4.acsta.net/c_215_290/pictures/16/05/20/12/52/423680.jpg",
+        "age": "63 ans",
+        "nationality": "Américain",
+        "biography": "Issu d'une famille de huit enfants, Willem Dafoe débute au théâtre à l'âge de vingt ans, dans une troupe expérimentale du Milwaukee. C'est au cours d'un voyage à New York qu'il rencontre sa femme, Elizabeth LeCompte, avec qui il crée la compagnie théatrâle Wooster Group, dans laquelle il continue de jouer, parallèlement à ses rôles au cinéma. Le cinéma, il y entre en 1980, via La Porte du paradis de Michael Cimino, qui permet aux spectateurs de découvrir son physique émacié et troublant, souvent mis au service, par la suite, de rôles de méchants : on le voit ainsi en vampire dans Les Prédateurs de Tony Scott, ou en trafiquant de fausse monnaie dans Police féderale Los Angeles de William Friedkin. En 1986, Dafoe change de registre en incarnant le sergent Elias dans Platoon d'Oliver Stone. Même s'il ne gagne pas l'Oscar du meilleur second rôle, pour lequel il est nommé, il acquiert une c..."
+      }
+    ]
+  },
+  {
+    "id": "ant-man-et-la-guepe",
+    "title": "Ant-man et la guêpe",
+    "image": "https://image.tmdb.org/t/p/w1280/r3Vapr4sdXOhHBThTNtfuijKe5V.jpg",
+    "cover": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
+    "description": "Après les événements survenus dans Captain America : Civil War, Scott Lang a bien du mal à concilier sa vie de super-héros et ses responsabilités de père. Scott va devoir renfiler son costume et apprendre à se battre aux côtés de La Guêpe afin de faire la lumière sur des secrets enfouis de longue date…",
+    "year": "2018",
+    "casting": [
+      {
+        "id": "paul-rudd",
+        "name": "Paul Rudd",
+        "image": "https://image.tmdb.org/t/p/w1280/8eTtJ7XVXY0BnEeUaSiTAraTIXd.jpg",
+        "age": "49 ans",
+        "nationality": "Américain",
+        "biography": "Né d'un père américain et d'une mère anglaise, Paul Rudd obtient un diplôme de théâtre de l'Université du Kansas avant d'étudier à Los Angeles au sein de l'American Academy of Dramatic Arts/West. Après avoir beaucoup joué sur scène, il se révèle au grand public en 1993 dans la série télévisée Les Soeurs Reed, où il tient un rôle récurrent.C'est en 1995 que Paul Rudd débute véritablement sur grand écran. Des débuts variés, puisqu'il apparaît successivement dans le film d'horreur Halloween 6 et la comédie Clueless, avant de jouer dans le Romeo + Juliette de Baz Luhrmann, aux côtés de Leonardo DiCaprio et Claire Danes. En 1998, il décroche son premier grand rôle avec la romance L'Objet de mon affection, où il donne la réplique à Jennifer Aniston, et tourne ensuite sous la direction de Lasse Hallström dans L'Oeuvre de Dieu, la part du diable.A partir de 2001, Paul Rudd se spécialise dans la..."
+      },
+      {
+        "id": "evangeline-lilly",
+        "name": "Evangeline Lilly",
+        "image": "https://image.tmdb.org/t/p/w1280/h8Lerr3D362n1jZvywtbvUzgBIN.jpg",
+        "age": "39 ans",
+        "nationality": "Canadienne",
+        "biography": "Evangeline Lilly est née dans une petite ville du Canada. Alors qu'elle fait ses études supérieures à la \"British Columbia\", elle est repérée par l'agence de mannequinat Ford. Dans le même temps, elle étudie l'art dramatique à la \"Yaletown Actors Lab\" de Vancouver. Elle débute sa carrière d'actrice à la télévision avec des petits rôles dans That '70s Show (2000) et Smallville, ainsi qu'au cinéma dans des films aussi différents que Freddy contre Jason (2003) et F.B.I. Fausses Blondes Infiltrées (2004). Mais c'est son personnage de Kate Austen, fugitive au grand cœur dans la série Lost, les disparus (2004-2010), qui lui offre une importante visibilité et une notoriété mondiale. L'actrice parvient ensuite à trouver des rôles d'importance, comme c'est le cas dans Démineurs (2008), film oscarisé de Kathryn Bigelow et surtout dans Et après, où elle joue la compagne de Romain Duris. Evangeline..."
+      },
+      {
+        "id": "michael-douglas",
+        "name": "Michael Douglas",
+        "image": "https://image.tmdb.org/t/p/w1280/nmlitv4g2jXO3sJrnA9g980j2uc.jpg",
+        "age": "73 ans",
+        "nationality": "Américain",
+        "biography": "Fils de Kirk Douglas et Diana Dill.Michael Douglas débute dans le cinéma en 1962, en tant qu'assistant-réalisateur sur Seuls sont les indomptés, film produit et interprété par son père. Il étudie par la suite l'art dramatique à l'université de Santa Barbara, en Californie. C'est là qu'il rencontre Danny DeVito, avec lequel il deviendra ami et partagera souvent l'affiche.Après deux courtes apparitions (L'Ombre d'un Géant en 1966 et Where's jack en 1969), Michael Douglas commence sa réelle carrière de comédien en 1969 dans Hail, hero, dans lequel il interprète un hippie pacifiste qui décide de se battre au Vietnam. Ce film lui vaut une nomination au Golden Globe 1970 du Meilleur Espoir Masculin. La série télé Les Rues de San Francisco le rend célèbre dès 1972 : il y incarne le jeune inspecteur Steve Keller qui fait équipe avec un homme plus expérimenté, alias Karl Malden. La série dure jus..."
+      }
+    ]
+  },
+  {
+    "id": "avengers-infinity-wars",
+    "title": "Avengers : Infinity War",
+    "image": "https://image.tmdb.org/t/p/w1280/uIMcxe36h9K3K1RFuhCtdo0UiY9.jpg",
+    "cover": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+    "description": "Les Avengers et leurs alliés devront être prêts à tout sacrifier pour neutraliser le redoutable Thanos avant que son attaque éclair ne conduise à la destruction complète de l’univers.",
+    "year": "2018",
+    "casting": [
+      {
+        "id": "robert-downey-jr",
+        "name": "Robert Downey Jr.",
+        "image": "https://image.tmdb.org/t/p/w1280/1YjdSym1jTG7xjHSI0yGGWEsw5i.jpg",
+        "age": "53 ans",
+        "nationality": "Américain",
+        "biography": "Robert Downey Jr., né le 4 avril 1965 à New York, est un acteur américain. Révélé à la fin des années 1980, il est nommé à l'Oscar du meilleur acteur en 1993, mais connait ensuite un passage à vide du fait de graves problèmes de drogue et d'alcool. Rétabli, il opère un retour en force et devient, en 2008, l'interprète d'Iron Man dans les films des studios Marvel. Ce rôle, qu'il interprète dans Iron Man 1, 2 et 3 ainsi que dans Avengers, Avengers : L'Ère d'Ultron et Captain America: Civil War, lui vaut de devenir l'un des acteurs les mieux payés au monde."
+      },
+      {
+        "id": "chris-hemsworth",
+        "name": "Chris Hemsworth",
+        "image": "https://image.tmdb.org/t/p/w1280/lrhth7yK9p3vy6p7AabDUM1THKl.jpg",
+        "age": "34 ans",
+        "nationality": "Australien",
+        "biography": "Chris Hemsworth est un acteur australien, né le 11 août 1983 à Melbourne.\nIl débuta dans la série australienne Summer Bay (2004-2007) avant d'être mondialement reconnu grâce à l'interprétation du super-héros Thor dans les films Marvel. Il est le frère de Luke et Liam Hemsworth."
+      },
+      {
+        "id": "chris-evans",
+        "name": "Chris Evans",
+        "image": "https://image.tmdb.org/t/p/w1280/kRlx7PxXkom7Daj8Z2HmcbPQB1o.jpg",
+        "age": "37 ans",
+        "nationality": "Américain",
+        "biography": "Christopher Robert \"Chris\" Evans (né le 13 juin 1981) est un acteur et cinéaste américain. Evans est surtout connu pour ses rôles de super-héros, comme Captain America dans Marvel Cinematic Universe, et Human Torch in Fantastic Four. En 2015, il a fait ses débuts de réalisateur avec le drame romantique Before We Go."
+      }
+    ]
+  }
+]
